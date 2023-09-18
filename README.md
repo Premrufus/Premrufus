@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Premrufus
-- 👀 I’m aspiring to become a Data Analyst
-- 🌱 I’m currently learning Python, SQL, and other technologies required on reaching my goal.
+- 🌱 I’m currently learning Python, SQL, and other technologies required on reaching my goal to become a Data Analyst.
 - 📫 You can reach me at premrufus23@gmai.com
 
 <!---
